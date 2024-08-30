@@ -11,5 +11,7 @@
             "email": "marmokanime@yandex.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
 }

@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-script",
+  "version": "1.0.0",
+  "description": "Puppeteer script for handling reCAPTCHA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node puppeteer-script.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "proxy-chain": "^2.5.3",
+    "puppeteer": "^23.2.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
